@@ -1,0 +1,4 @@
+GRANT DBA TO pos;
+
+
+
